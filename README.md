@@ -11,7 +11,7 @@ You can install the module using pip: `pip install -r requirements.txt`
 
 ## Usage
 
-1. Download the repo `https://github.com/elly-hacen/chrome-password-dumper.git`
+1. Download the repo `https://github.com/elly-hacen/innocent.git`
 2. Run the script in a Python environment (e.g. command prompt, terminal) using the command: `python chrome.py`
 3. The script will generate a file named `temp.txt` in the same directory where the program executed.
 4. The `temp.txt` file will contain the origin URL, username, password, and creation date for each saved login credential.
